@@ -1,11 +1,53 @@
-# Bienvenidos al Git Hub de Adrián Terradillos 
+<h1 align="center">¡Hola! 👋 Soy Adrián Terradillos</h1>
+
+<p align="center">
+  💻 Apasionado por la tecnología • 🎯 En constante aprendizaje • 🚀 Buscando mi primera oportunidad en IT
+</p>
+
 ---
 
+### ✨ Sobre mí
 
-Me llamo Adrián Terradillos y hace aproximadamente un año decidí dar un giro importante a mi vida profesional para adentrarme en el mundo de la tecnología. Hasta ese momento me dedicaba al entrenamiento personal, una experiencia que me permitió desarrollar sólidas habilidades de comunicación, empatía y gestión de personas. Estar en contacto directo con los clientes, comprender sus necesidades y acompañarlos en sus procesos de cambio me dio una base humana muy valiosa que hoy traslado con entusiasmo a este nuevo camino en el sector IT.
+Hace aproximadamente un año decidí dar un giro importante a mi vida profesional para adentrarme en el **fascinante mundo de la tecnología**. Hasta entonces trabajaba como **entrenador personal**, una experiencia que me permitió desarrollar sólidas habilidades sociales, empatía y una gran capacidad de comunicación con las personas.
 
-La decisión de cambiar de rumbo no fue impulsiva, sino el resultado de una inquietud constante por aprender y por retarme a mí mismo. Siempre me ha fascinado cómo la tecnología puede transformar realidades y conectar al mundo, y hoy me encuentro en pleno proceso de formación para poder ser parte activa de ese cambio.
+🧠 El cambio de rumbo vino impulsado por mi curiosidad, mi espíritu autodidacta y las ganas de crecer en un entorno que evoluciona constantemente.
 
-Actualmente, tengo el privilegio de estar formándome gracias a la Fundación Randstad, una oportunidad que me ha permitido no solo adquirir conocimientos técnicos, sino también sumergirme en una comunidad de aprendizaje y crecimiento. Cada nuevo lenguaje, cada reto de código y cada proyecto me confirma que estoy exactamente donde quiero estar.
+Gracias a la **Fundación Randstad**, hoy estoy en plena etapa de formación, adquiriendo conocimientos técnicos, enfrentándome a nuevos retos y reafirmando que esta es la dirección que quiero seguir.
 
-Busco una oportunidad que me permita seguir aprendiendo, aportar desde mi experiencia previa y, sobre todo, crecer profesional y personalmente en un entorno donde se valore la actitud, la proactividad y las ganas de evolucionar. Estoy convencido de que todo lo que he aprendido hasta hoy —dentro y fuera de la tecnología— puede aportar valor a un equipo que crea en el talento en desarrollo y en el poder del compromiso.
+---
+
+### 🔧 Tecnologías y herramientas que estoy aprendiendo
+
+- `HTML`, `CSS`, `JavaScript`
+- `Java`, `Spring Boot`
+- `Git & GitHub`
+- `Postman`, `SQL`
+- Buenas prácticas de desarrollo, trabajo en equipo, metodologías ágiles
+
+---
+
+### 💡 ¿Qué me motiva?
+
+- Aprender algo nuevo cada día
+- Superar retos técnicos y personales
+- Colaborar en proyectos con impacto real
+- Formar parte de un equipo que valore la actitud y las ganas
+
+---
+
+### 📫 ¿Hablamos?
+
+Estoy buscando mi **primera oportunidad profesional en IT**.  
+Si crees que mi perfil encaja o simplemente quieres conectar, estaré encantado de hablar contigo 😊
+
+<p align="center">
+  <a href="mailto:tuemail@ejemplo.com">📧 Escríbeme</a> • 
+  <a href="https://github.com/adrianterradillos">🐙 GitHub</a> • 
+  <a href="https://linkedin.com/in/tu-linkedin">💼 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gracias+por+visitar+mi+perfil!;Nos+vemos+en+el+código!+👨‍💻&center=true&width=380&height=45">
+</p>
