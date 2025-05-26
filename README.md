@@ -1,4 +1,6 @@
-# adrian-dev
+# Bienvenidos al Git Hub de Adrián Terradillos 
+---
+
 
 Me llamo Adrián Terradillos y hace aproximadamente un año decidí dar un giro importante a mi vida profesional para adentrarme en el mundo de la tecnología. Hasta ese momento me dedicaba al entrenamiento personal, una experiencia que me permitió desarrollar sólidas habilidades de comunicación, empatía y gestión de personas. Estar en contacto directo con los clientes, comprender sus necesidades y acompañarlos en sus procesos de cambio me dio una base humana muy valiosa que hoy traslado con entusiasmo a este nuevo camino en el sector IT.
 
