@@ -41,9 +41,7 @@ Estoy buscando mi **primera oportunidad profesional en IT**.
 Si crees que mi perfil encaja o simplemente quieres conectar, estaré encantado de hablar contigo 😊
 
 <p align="center">
-  <a href="mailto:tuemail@ejemplo.com">📧 Escríbeme</a> • 
   <a href="https://github.com/adrianterradillos">🐙 GitHub</a> • 
-  <a href="https://linkedin.com/in/tu-linkedin">💼 LinkedIn</a>
 </p>
 
 ---
